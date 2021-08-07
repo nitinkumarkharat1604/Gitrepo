@@ -1,4 +1,2 @@
 hello sanket
 Hi sanket
-Hi sanket
->>>>>>> branch1
