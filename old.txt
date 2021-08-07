@@ -1,2 +1,2 @@
-HI I am git project
+I am git project
 
